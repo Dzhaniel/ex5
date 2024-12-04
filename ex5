@@ -1,0 +1,3 @@
+a=int(input("Шақырымды енгіз:"))
+shaqyrym=a*1.609
+print(shaqyrym)
